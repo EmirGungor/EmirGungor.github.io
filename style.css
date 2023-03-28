@@ -1,0 +1,5 @@
+h1{text-align: center;font-size: 50px;}
+ul{list-style-type:none;}  /* liste işareti kaldırıldı  */
+li{text-decoration-line:line-through;} /* Listeyenin üstünü çiz*/
+li{background-color:#EBE645 ;} 
+li{font-size: 30px;}
